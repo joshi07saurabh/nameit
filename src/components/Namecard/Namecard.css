@@ -1,0 +1,13 @@
+.result-name{
+    background-color: rgb(129, 129, 180);
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    min-width: 60px;
+    padding: 10px 15px;
+    margin: 10px 15px;
+    color: white;
+}
+.link{
+    text-decoration: none;
+}
